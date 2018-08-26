@@ -29,6 +29,3 @@ function funkyFunction() {
 }
 
 funkyFunction()();
-
-
-

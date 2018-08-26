@@ -22,3 +22,10 @@ function add2(n) {
 }
 
 add2(n);
+
+
+funkyFunction() {
+  return function ();
+}
+
+funkyFunction();

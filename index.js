@@ -1,8 +1,10 @@
 var animal = '';
+
 function myAnimal() {
   animal = 'dog';
   return animal;
 }
+
 myAnimal();
 
 
@@ -12,3 +14,11 @@ function yourAnimal() {
 }
 
 yourAnimal();
+
+
+function add2(n) {
+  n = n + 2;
+  return n;
+}
+
+add2(n);

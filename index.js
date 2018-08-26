@@ -25,7 +25,8 @@ add2(n);
 
 
 function funkyFunction() {
-  return function();
+  function = function();
+  return function;
 }
 
 funkyFunction();
